@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, React Js, Javascipt**
 
-- 👯 I’m looking to collaborate on **some frontend development projects**
+- 👯 I’m looking to collaborate on **web development projects**
 
 - 💬 Ask me about **React, Redux**
 

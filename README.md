@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmuthu" alt="tmuthu" /></a> </p>
 
-- 🌱 I’m currently learning **Django, React Js, Javascipt**
+- 🌱 I’m currently working on **Svelte, React Js, Javascipt**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 💬 Ask me about **React, Redux**
+- 💬 Ask me about **web apps**
 
 - 📫 How to reach me **tmuthukumarnpm@gmail.com**
 
